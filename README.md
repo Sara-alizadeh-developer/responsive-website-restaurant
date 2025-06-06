@@ -1,3 +1,3 @@
-# PROJECT-SASS
+# PROJECT-responsive-website-restaurant
 
-DEMO : https://sara-alizadeh-developer.github.io/Hotel-Website
+DEMO : https://sara-alizadeh-developer.github.io/responsive-website-restaurant
